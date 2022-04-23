@@ -1,6 +1,3 @@
 # Linear-Regression
-In this we use liner, multiple, polynomial algorithms.
-In linear regression algorithm on advertising.csv predictions does.
-In multiple linear regression algorithm on housing.csv prediction does.
-In polynomial regression algorithm on advertising.csv predictions does.
+Linear Regression is a machine learning algorithm based on supervised learning. It performs a regression task. Regression models a target prediction value based on independent variables. It is mostly used for finding out the relationship between variables and forecasting.
 
